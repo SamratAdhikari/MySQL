@@ -14,6 +14,6 @@
 
 INSERT INTO users VALUES
      (4, "Heisenberg", "walter@gmail.com", "money", "+01-9825000000", "New Mexico", "1950-01-10", 'M', 0),
-     (5, "Jesse", "jesse@gmail.com", "weed", "+01-9825111111", "New Mexico", "1985-01-10", 'M', 1);
+     (5, "Jesse", "jesse@gmail.com", "wehost_summaryed", "+01-9825111111", "New Mexico", "1985-01-10", 'M', 1);
      
      
